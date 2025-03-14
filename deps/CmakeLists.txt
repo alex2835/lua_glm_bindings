@@ -1,4 +1,4 @@
 
 add_subdirectory(lua)
-add_subdirectory(sol2)
+add_subdirectory(sol2-3.5.0)
 add_subdirectory(glm)
